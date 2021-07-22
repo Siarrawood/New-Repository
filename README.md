@@ -1,1 +1,3 @@
 # World-Weather-Analysis
+## Overview 
+Using APIs and JSON Traversals to analyze and visualize weather data to find the best cities to vacation in around the world. Jack, the head of analysis for the user interface team, needs help to create a platform where people can go and filter based on their preferred travel criteria. Using Jupyter Notebook and the city Py module, over 500 random latitudes and longitudes will be collected. Then, I will perform requests on the open weather map API and the weather data will be added to a Panda's dataframe. The data will be converted into scatterplots that depict the relationship between latitude and a variety of weather parameters: temperature, humidity, cloudiness, and wind speed. 
